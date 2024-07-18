@@ -1,1 +1,1 @@
-In this project i have used Customer churn data to predict whether the customer will churn or not based the feature provided in the data. Before applying Machine learning models i have also done EDA to justify various questions regarding the data 
+In this project i have used Customer churn data to predict whether the customer will churn or not based the feature provided in the data. Before applying Machine learning models i have also done EDA to justify various questions. Identifying various trends among the age group and gender.
